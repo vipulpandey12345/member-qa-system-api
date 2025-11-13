@@ -1,4 +1,4 @@
-# System Flow
+# Architecture
 
 
 # Bonus 1
