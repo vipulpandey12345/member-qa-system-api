@@ -22,7 +22,7 @@ https://web-production-1e855.up.railway.app/ask
     }
 
 
-2. Messages will be 'Thank You' comments or blanket statements rather than all requests. This can be costly since there would have to be an additional filter to sort messages with important context vs irrelevant context.
+2. Messages will be 'Thank You' comments or blanket statements rather than requests. This can be costly since there would have to be an additional filter to sort messages with important context vs irrelevant context.
 
 3. Message don't include important details needed to make a request or booking which can hinder the user's schedule or cause additional delays. An example is: "I need four front-row seats for the game on November 20."
 
