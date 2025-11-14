@@ -38,7 +38,7 @@ https://web-production-1e855.up.railway.app/ask
 
 
 
-[![Video Demo](ACTUAL_THUMBNAIL_URL)](https://www.loom.com/share/3b724548852a497782b90ab7c90ca59a)
+[![▶️Video Demo Here](ACTUAL_THUMBNAIL_URL)](https://www.loom.com/share/3b724548852a497782b90ab7c90ca59a)
 
 
 
