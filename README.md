@@ -1,6 +1,8 @@
 # API URL
 
-
+```
+https://web-production-1e855.up.railway.app/ask
+```
 
 
 # Bonus 1
