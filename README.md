@@ -25,19 +25,6 @@ https://web-production-1e855.up.railway.app/ask
 2. Messages will be 'Thank You' comments or blanket statements rather than requests. This can be costly since there would have to be an additional filter to sort messages with important context vs irrelevant context.
 
 3. Message don't include important details needed to make a request or booking which can hinder the user's schedule or cause additional delays. An example is: "I need four front-row seats for the game on November 20."
-
-4. Messages are not fully grammtically correct which can hinder semantic meaning inside the vector DB. An example is:
-   {
-      "id": "c49ab4ea-c417-4348-ac4d-d538edcc565e",
-      "user_id": "5b2e7346-eef5-445d-a063-6c5267f04bf8",
-      "user_name": "Hans Müller",
-      "timestamp": "2024-12-24T08:13:22.160298+00:00",
-      "message": "I’m flying to San Francisco—book the first class for two on November 10."
-    }
-
-
-
-
 # 🎥 Demo Video
 
 [▶️ Watch the demo on Loom](https://www.loom.com/share/3b724548852a497782b90ab7c90ca59a)
