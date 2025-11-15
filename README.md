@@ -6,7 +6,7 @@ https://web-production-1e855.up.railway.app/ask
 
 
 # Bonus 1
-1. Pre-filter Using a local name classifier. For a RAG architecture, the rule is deterministic filtering -> LLM Model for reasoning and final output. Classifier examples are: Simple keyword matching where it filters for the member's name, fuzzy matching to handle typos and grammtical errors, and Regex Name Matching. This approach would be cheaper because only 1 call would be made to OpenAI to produce the final output, not 2. This would also speed up response time and avoid hallunications.
+1. Pre-filter Using a local name classifier. For a RAG architecture, the rule is deterministic filtering -> LLM Model for reasoning and final output. Classifier examples are: Simple keyword matching where it filters for the member's name, fuzzy matching to handle typos and grammatical errors, and Regex Name Matching. This approach would be cheaper because only 1 call would be made to OpenAI to produce the final output, not 2. This would also speed up response time and avoid hallunications.
 
 2. Full knowledge graph representation. This would include a CRON job to still fetch every hour and update new information as nodes. People and messages can be nodes and topics would be edges. This would be extremely accurate for detailed queries where relationships can be traversed and can scale well. No external LLM calls needed. This architecture is very complex and would require set-up to an external DB such as Neo4j.  
 
